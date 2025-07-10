@@ -1,6 +1,7 @@
 path: ./dataset
 
 train: images/train
+val: images/val
 
 nc: 7
 names: [ "Ex_22", "Ex_23", "Ex_24", "Ex_25", "Ex_26", "Ex_27", "Ex_28" ]
